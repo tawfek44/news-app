@@ -1,16 +1,8 @@
-# news_app
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# news_app Flutter App
+- User can see all news automatically in news feed.
+- User can go throw news categories like (Sport,science,...)news.
+## Tech used
+- Flutter App Developement with Dart Programming language.
+- list view.
+- state mangement using #bloc .
+- REST Api remote database .
